@@ -1,1 +1,2 @@
-# mit6.0001
+# Core Java
+demos from *Core Java*
